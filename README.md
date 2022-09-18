@@ -1,4 +1,7 @@
-# Movieflix
+# Senior Front-end Engineer Code Challenge: MMT at the Movies! 
+
+
+Welcome to the MMT Digital Front-end test! The following activity will give you the chance to showcase your skills as a front-end engineer. You’ll have **48 hours** to complete the test. Making it to the next stage of the process, we’ll talk through your code, and the decisions you’ve made.
 
 Please read the entire document before you get started, to be sure of the requirements of the test:
 

@@ -1,0 +1,23 @@
+  body > #root > div {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    }
+
+
+    *::-webkit-scrollbar {
+      width: 12px;
+    }
+    
+    *::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    
+    *::-webkit-scrollbar-thumb {
+      background-color:#c7c7cdd4;
+      border-radius: 20px;
+    }
+  
+   

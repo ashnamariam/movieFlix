@@ -1,0 +1,22 @@
+.layout {
+    background: black;
+}
+
+.container {
+    overflow-y: auto;
+    background-color: #000;
+}
+
+.movieContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 70px;
+    color:#fff;
+}
+
+.body {
+    margin: 12% 3% 0% 3%;
+    padding: 0% 3%;
+    background: #2C2C2C;
+}
